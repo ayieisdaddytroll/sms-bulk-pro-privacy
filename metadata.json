@@ -1,0 +1,6 @@
+{
+  "name": "SMSBlast Pro",
+  "description": "Primary SMS bulk messaging app supporting up to 1,000 recipients via local phone SIM card, reusable templates with {Name} and {Amount} placeholders, and real-time carrier delivery reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
